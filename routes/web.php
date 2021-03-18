@@ -9,6 +9,7 @@ use App\Http\Controllers\PaginationController;
 use App\Http\Controllers\baza;
 use App\Http\Controllers\Cars;
 use App\Http\Controllers\MemberController;
+use App\Http\Controllers\UploadController;
 
 /*
 |--------------------------------------------------------------------------
@@ -121,3 +122,7 @@ Route::post('add',[MemberController::class,'addData']);
 
 /* Route::view('appbaza','appbaza');
 Route::post('appbaza',[Appniki::class,'app']); */
+
+// upload
+Route::view('upload','upload');
+Route::post('upload',[UploadController::class,'index']);
