@@ -10,6 +10,8 @@ use App\Http\Controllers\baza;
 use App\Http\Controllers\Cars;
 use App\Http\Controllers\MemberController;
 use App\Http\Controllers\UploadController;
+use App\Http\Controllers\mail;
+use App\Http\Controllers\MailController;
 
 /*
 |--------------------------------------------------------------------------
@@ -126,3 +128,12 @@ Route::post('appbaza',[Appniki::class,'app']); */
 // upload
 Route::view('upload','upload');
 Route::post('upload',[UploadController::class,'index']);
+
+Route::view('izoh','mail.index');
+
+//Route::post('izoh',[mail::class,'index']);
+
+
+Route::get('email',[MailController::class,'Sendmail']);
+//qoshimcha
+Route::post('send-message',[MailController::class,'Sendmail2'])->name('contact.send');
