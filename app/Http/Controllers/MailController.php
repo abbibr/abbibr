@@ -8,7 +8,7 @@ use Illuminate\Support\Facades\Mail;
 
 class MailController extends Controller
 {
-    /* public function Sendmail()
+    public function Sendmail()
     {
         $details=[
             'title'=>'Hello',
@@ -16,8 +16,8 @@ class MailController extends Controller
         ];
         Mail::to('ibrohimabbosov757@gmail.com')->send(new TestMail($details));
         return "Email Sent!";
-    } */
-    public function Sendmail()
+    }
+    /*public function Sendmail()
     {
         return view('emails.Testmail');
     }
@@ -31,5 +31,5 @@ class MailController extends Controller
         ];
         Mail::to('ibrohimabbosov757@gmail.com')->send(new TestMail($details));
         return back()->with('message_sent','Success');
-    } 
+    }*/
 }

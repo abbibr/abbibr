@@ -12,6 +12,7 @@ use App\Http\Controllers\MemberController;
 use App\Http\Controllers\UploadController;
 use App\Http\Controllers\mail;
 use App\Http\Controllers\MailController;
+use App\Http\Controllers\UserAuth;
 
 /*
 |--------------------------------------------------------------------------
@@ -136,4 +137,27 @@ Route::view('izoh','mail.index');
 
 Route::get('email',[MailController::class,'Sendmail']);
 //qoshimcha
-Route::post('send-message',[MailController::class,'Sendmail2'])->name('contact.send');
+//Route::post('send-message',[MailController::class,'Sendmail2'])->name('contact.send');
+
+
+// session - server side hisoblanadi
+//Route::view('log','login');
+Route::post('user',[UserAuth::class,'userLogin']);
+Route::view('profile','profile');
+
+Route::get('/log', function () {
+    if(session()->has('user'))
+    {
+       return redirect('profile');
+    }
+    return view('login');
+});
+
+Route::get('/logout', function () {
+    if(session()->has('user'))
+    {
+        // remove qilish
+        session()->pull('user');
+    }
+    return redirect('/log');
+});
