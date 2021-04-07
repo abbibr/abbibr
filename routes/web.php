@@ -13,6 +13,10 @@ use App\Http\Controllers\UploadController;
 use App\Http\Controllers\mail;
 use App\Http\Controllers\MailController;
 use App\Http\Controllers\UserAuth;
+use App\Http\Controllers\EmployeeController;
+use App\Http\Controllers\JoinController;
+use App\Http\Controllers\EmployeController;
+use App\Http\Controllers\EmpController;
 
 /*
 |--------------------------------------------------------------------------
@@ -161,3 +165,21 @@ Route::get('/logout', function () {
     }
     return redirect('/log');
 });
+
+Route::get('joins',[JoinController::class,'index']);
+
+Route::get('join',[EmployeeController::class,'show']);
+
+
+// eksport excel qism
+Route::get('export',[EmployeController::class,'addEmployee']);
+
+Route::get('xlsx',[EmployeController::class,'exportExcel']);
+
+Route::get('csv',[EmployeController::class,'exportCSV']);
+
+Route::get('table',[EmpController::class,'index']);
+Route::get('download',[EmpController::class,'load']);
+
+Route::get('import',[EmployeController::class,'import']);
+Route::post('ok',[EmployeController::class,'ok']);
