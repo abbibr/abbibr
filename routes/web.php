@@ -178,8 +178,17 @@ Route::get('xlsx',[EmployeController::class,'exportExcel']);
 
 Route::get('csv',[EmployeController::class,'exportCSV']);
 
+
+// download pdf
 Route::get('table',[EmpController::class,'index']);
 Route::get('download',[EmpController::class,'load']);
+Route::get('table/{id}',[EmpController::class,'id']);
+Route::get('load/{id}',[EmpController::class,'download']);
 
+
+// import excel
 Route::get('import',[EmployeController::class,'import']);
 Route::post('ok',[EmployeController::class,'ok']);
+
+Route::get('xlim',[EmployeController::class,'xlim']);
+Route::post('ok',[EmployeController::class,'excelimport'])->name('excelimport');

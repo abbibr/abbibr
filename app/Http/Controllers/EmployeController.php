@@ -7,6 +7,7 @@ use App\Models\Employee;
 use App\Exports\EmployeeExport;
 use Excel;
 use App\Imports\EmployeeImport;
+use App\Imports\ExcelImport;
 
 class EmployeController extends Controller
 {
@@ -55,6 +56,15 @@ class EmployeController extends Controller
     public function ok(Request $req)
     {
         Excel::import(new EmployeeImport,$req->file);
+        return "Success";
+    }
+    public function xlim()
+    {
+        return view('import');
+    }
+    public function excelimport(Request $req)
+    {
+        Excel::import(new ExcelImport,$req->file);
         return "Success";
     }
 }

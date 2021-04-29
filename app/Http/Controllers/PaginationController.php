@@ -9,7 +9,7 @@ class PaginationController extends Controller
 {
     public function users()
     {
-        $users=User::paginate(5);
+        $users=User::paginate(2);
         return view('pagination',compact('users'));
     }
 }
