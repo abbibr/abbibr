@@ -1,4 +1,4 @@
-#LARAVEL
+<h1>LARAVEL</h1>
 
 Bunda siz laravel boyicha kichik loyihalar va mavzularni korishingiz mumkin!
 
