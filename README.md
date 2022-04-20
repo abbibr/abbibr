@@ -32,6 +32,14 @@ I am  Ibrohim Abbosov. I am a back-end developer, I build my web applications an
 ![Image](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
 ![Image](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sukhrobnuraliev&show_icons=true&theme=gotham" alt="sukhrobnuraliev" />
+<br>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sukhrobnuraliev&theme=onestar&row=1&margin-w=15&margin-h=15&no-bg=true" alt="sukhrobnuraliev" /></a> </p>
+<div class="display: flex;">
+ <a href="https://github.com/uchkunrakhimov/github-readme-stats"><img alt="Uchkun Rakhimov's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uchkunrakhimov&langs_count=8&count_private=true&layout=compact&theme=dracula" /></a>
+  
+ <img src="https://github.com/theMir8/theMir8/blob/output/github-contribution-grid-snake.svg" />
+</div>
+
+<br>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abbibr&show_icons=true&theme=gotham" alt="abbibr" />
