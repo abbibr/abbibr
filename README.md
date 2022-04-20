@@ -12,7 +12,8 @@ I am  Ibrohim Abbosov. I am a back-end developer, I build my web applications an
 <h2 align="left">👇 Contact Me:</h2>
 
 [![Instagram Badge](https://img.shields.io/badge/-@abbibr_ibrohim-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/nuraliev.dev/)](https://www.instagram.com/abbibr_ibrohim)
-[![Telegram Badge](https://img.shields.io/badge/@abbibr-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/abbibr)](https://t.me/abbibr) 
+[![Telegram Badge](https://img.shields.io/badge/@abbibr-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/abbibr)](https://t.me/abbibr)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 
 ## ⚡ Technologies
@@ -31,6 +32,7 @@ I am  Ibrohim Abbosov. I am a back-end developer, I build my web applications an
 ![Image](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Image](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
 ![Image](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
+![Image](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
 <br>
 
