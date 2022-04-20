@@ -11,9 +11,9 @@ I am  Ibrohim Abbosov. I am a back-end developer, I build my web applications an
 
 <h2 align="left">👇 Contact Me:</h2>
 
-[![Instagram Badge](https://img.shields.io/badge/Instagram-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/abbibr_ibrohim/)](https://www.instagram.com/abbibr_ibrohim)
-[![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/abbibr)](https://t.me/abbibr)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=https://mail.google.com/)](https://mail.google.com/))
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/abbibr_ibrohim/)](https://www.instagram.com/abbibr_ibrohim)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/abbibr)](https://t.me/abbibr)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=https://mail.google.com/)](https://mail.google.com/)
 
 
 ## ⚡ Technologies
