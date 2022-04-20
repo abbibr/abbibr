@@ -7,7 +7,7 @@ I am  Ibrohim Abbosov. I am a back-end developer, I build my web applications an
 - :computer: I'm currently working on Laravel & Lumen & Telegram Bot
 - :hourglass_flowing_sand:  Exploring Microservices & Event Driven Architecture
 - :triangular_flag_on_post: I teach code on YouTube
-- :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
+- :zap: I love to attend Meetups for learning & Conferences for Networking<br>
 
 <h2 align="left">👇 Contact Me:</h2>
 
