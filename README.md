@@ -12,7 +12,7 @@ I am  Ibrohim Abbosov. I am a back-end developer, I build my web applications an
 <h2 align="left">👇 Contact Me:</h2>
 
 [![Instagram Badge](https://img.shields.io/badge/-@abbibr_ibrohim-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/nuraliev.dev/)](https://www.instagram.com/abbibr_ibrohim)
-[![Telegram Badge](https://img.shields.io/badge/@abbibr-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/abbibr)](https://t.me/sukhrobnuraliev) 
+[![Telegram Badge](https://img.shields.io/badge/@abbibr-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/abbibr)](https://t.me/abbibr) 
 
 
 ## ⚡ Technologies
@@ -35,7 +35,7 @@ I am  Ibrohim Abbosov. I am a back-end developer, I build my web applications an
 <br>
 
 <div class="display: flex;">
- <a href="https://github.com/uchkunrakhimov/github-readme-stats"><img alt="Uchkun Rakhimov's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uchkunrakhimov&langs_count=8&count_private=true&layout=compact&theme=dracula" /></a>
+ <a href="https://github.com/abbibr/github-readme-stats"><img alt="Ibrohim Abbosov's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abbibr&langs_count=8&count_private=true&layout=compact&theme=dracula" /></a>
   
  <img src="https://github.com/theMir8/theMir8/blob/output/github-contribution-grid-snake.svg" />
 </div>
