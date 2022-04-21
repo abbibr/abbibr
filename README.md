@@ -1,10 +1,10 @@
 ## Hi there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-I am  Ibrohim Abbosov. I am a back-end developer, I build my web applications and systems using PHP and Laravel. I am a graduate of Muhammad al-Khwarizmi IT School and studied programming at this school. </br>
+I am  Ibrohim Abbosov. I am a back-end developer, I build my web applications, systems and telegram bots using PHP and Laravel. I am a graduate of Muhammad al-Khwarizmi IT School and studied programming at this school. </br>
   
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- :computer: I'm currently working on Laravel & Lumen & Telegram Bot
+- :computer: I'm currently working on PHP & Laravel & Telegram Bot
 - :hourglass_flowing_sand:  Exploring Microservices & Event Driven Architecture
 - :triangular_flag_on_post: I teach code on YouTube
 - :zap: I love to attend Meetups for learning & Conferences for Networking<br>
