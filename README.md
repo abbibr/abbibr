@@ -1,6 +1,6 @@
 ## Hi there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-I am  Ibrohim Abbosov. I am a back-end developer, I build my web applications, systems and telegram bots using PHP and Laravel. I am a graduate of Muhammad al-Khwarizmi IT School and studied programming at this school. </br>
+I am  Ibrohim Abbosov. I am a back-end developer, I build my web applications, systems and telegram bots using PHP and Laravel. I am a graduate of Muhammad al-Khwarizmi IT School and studied programming at this school. <b>My Email Adress:</b> abbosovibrohim183@gmail.com</br>
   
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
@@ -11,7 +11,7 @@ I am  Ibrohim Abbosov. I am a back-end developer, I build my web applications, s
 
 <h2 align="left">👇 Contact Me:</h2>
 
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/abbibr_ibrohim/)](https://www.instagram.com/abbibr_ibrohim)
+![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/abbibr)](https://t.me/abbibr)
 ![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
