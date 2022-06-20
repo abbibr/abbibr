@@ -5,7 +5,7 @@ I am  Ibrohim Abbosov. I am a web (back-end) developer, I build my web applicati
   
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- :computer: I'm currently working on PHP & Laravel
+- :computer: I'm currently working on Laravel & VueJS
 - :triangular_flag_on_post: I teach code on YouTube
 - :zap: I love to attend Meetups for learning & Conferences for Networking<br>
 
