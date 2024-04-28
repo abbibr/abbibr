@@ -18,7 +18,7 @@ Volunteer at the IT Park. <br>
 
 <h2 align="left">👇 Contact Me:</h2>
 
-![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://t.me/abbibr)](https://www.instagram.com/abbibr_ibrohim)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://t.me/abbibr)](https://www.instagram.com/abbibr_ibrohim)
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/abbibr)](https://t.me/abbibr)
 ![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
