@@ -6,7 +6,8 @@ Coordinated 5+big projects in Light Solution company and worked there. <br>
 Participated in One Million Uzbek Coders. <br>
 I was Youth Union captain at Muhammad al-Khwarizmi school by district. <br>
 Currently learning Mechanical Engineering. <br>
-Volunteer at the IT Park. <b>My Email Adress:</b> abbosovibrohim183@gmail.com</br>
+Volunteer at the IT Park. <br>
+<b>My Email Adress:</b> abbosovibrohim183@gmail.com</br>
   
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
