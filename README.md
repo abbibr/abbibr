@@ -1,7 +1,8 @@
 <!--  <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" style="with: 30px;"> -->
 ## Hi there!
 
-I am  Ibrohim Abbosov. I am currently Backend Developer and build my web applications and systems using PHP and Laravel. <br>
+I am  Ibrohim Abbosov. Graduated Muhammad al-Khwarizmi specialized IT school. Currently studying at Amity University. <br>
+I am currently Backend Developer and build my web applications and systems using PHP and Laravel. <br>
 Coordinated 5+big projects in Light Solution company and worked there. <br>
 Participated in One Million Uzbek Coders. <br>
 I was Youth Union captain at Muhammad al-Khwarizmi school by district. <br>
