@@ -51,4 +51,4 @@ Volunteer at the IT Park. <br>
 
 <br>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abbibr&show_icons=true&theme=gotham" alt="abbibr" />
+<!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abbibr&show_icons=true&theme=gotham" alt="abbibr" /> --!
