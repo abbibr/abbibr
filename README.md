@@ -6,7 +6,7 @@ I am currently Backend Developer and build my web applications and systems using
 Coordinated 5+big projects in Light Solution company and worked there. <br>
 Participated in One Million Uzbek Coders. <br>
 I was Youth Union captain at Muhammad al-Khwarizmi school by district. <br>
-Currently learning Mechanical Engineering. <br>
+Currently learning Mechanical and Electrical Engineering. <br>
 Volunteer at the IT Park. <br>
 <b>My Email Adress:</b> abbosovibrohim183@gmail.com</br>
   
