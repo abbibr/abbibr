@@ -3,10 +3,10 @@
 
 I am  Ibrohim Abbosov. Graduated Muhammad al-Khwarizmi specialized IT school. Currently studying at Amity University. <br>
 Backend Developer (PHP Laravel). <br>
-Coordinated 5+big projects in Light Solution company and worked there. <br>
+Coordinated 5+big projects (systems) in Light Solution company and worked there. <br>
 Participated in One Million Uzbek Coders. <br>
 I was Youth Union captain at Muhammad al-Khwarizmi school by district. <br>
-Team Leader of Visionary Voyagers. <br>
+Founder @ MedUz platform (Clinic platform for Uzbekistan government and private hospitals). <br>
 Winner of Hacknovation 2024 for MedUz platform. <br>
 Currently learning Mechanical and Electrical Engineering. <br>
 Volunteer at the IT Park. <br>
