@@ -2,13 +2,13 @@
 ## Hi there!
 
 I am  Ibrohim Abbosov. Graduated Muhammad al-Khwarizmi specialized IT school. Currently studying at Amity University. <br>
-Backend Developer (PHP Laravel). <br>
+Team Leader & Backend Developer & IoT Engineer. <br>
 Coordinated 5+big projects (systems) in Light Solution company and worked there. <br>
 Participated in several hacknovations and startups. <br>
-Founder @ MedUz platform (Clinic platform for Uzbekistan government and private hospitals). <br>
-Winner of Hacknovation 2024 for MedUz platform. <br>
+Founder @ DavoTop (oldname MedUz platform) - Clinic platform for Uzbekistan government and private hospitals. <br>
+Winner of Hacknovation 2024 for MedUz platform. (1st place) <br>
+Winner of BRB Fintech Hackcelerator 2024. (2nd place) <br>
 Currently learning Mechanical and Electrical Engineering. <br>
-Volunteer at the IT Park. <br>
 <b>My Email Adress:</b> abbosovibrohim183@gmail.com</br>
   
 <h2 align="left">👨🏻‍💻 About Me:</h2>
