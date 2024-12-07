@@ -2,12 +2,9 @@
 ## Hi there!
 
 I am  Ibrohim Abbosov. Graduated Muhammad al-Khwarizmi specialized IT school. Currently studying at Amity University. <br>
-Team Leader & Backend Developer & IoT Engineer. <br>
+Backend Developer & IoT Engineer & Data Analyst. <br>
 Coordinated 5+big projects (systems) in Light Solution company and worked there. <br>
-Participated in several hacknovations and startups. <br>
-Founder @ DavoTop (oldname MedUz platform) - Clinic platform for Uzbekistan government and private hospitals. <br>
-Winner of Hacknovation 2024 for MedUz platform. (1st place) <br>
-Winner of BRB Fintech Hackcelerator 2024. (2nd place) <br>
+Participant and Winner in several big hackathons and startups. <br>
 Currently learning Mechanical and Electrical Engineering. <br>
 <b>My Email Adress:</b> abbosovibrohim183@gmail.com</br>
   
@@ -43,6 +40,9 @@ Currently learning Mechanical and Electrical Engineering. <br>
 <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
 <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
+<img src="https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=Microsoft-Excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=Power-BI&logoColor=black"/>
+<img src="https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/>
 
 <br>
 
