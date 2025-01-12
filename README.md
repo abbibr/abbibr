@@ -1,6 +1,10 @@
 <!--  <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" style="with: 30px;"> -->
 ## Hi there!
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=25&color=%2345C9FF&center=true&vCenter=true&lines=Code+is+Poetry+🎨;Always+Learning+💡;IoT+%2B + Backend + Data Analytics%3D+🚀">
+</p> <br>
+
 I am  Ibrohim Abbosov. Graduated Muhammad al-Khwarizmi specialized IT school. Currently studying at Amity University. <br>
 Backend Developer & IoT Engineer & Data Analyst. <br>
 Coordinated 5+big projects (systems) in Light Solution company and worked there. <br>
@@ -10,7 +14,7 @@ Currently learning Mechanical and Electrical Engineering. <br>
   
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- :computer: I'm currently working on Laravel & VueJS
+- :computer: I'm currently working on Laravel & VueJS/ReactJS
 - :triangular_flag_on_post: I teach code on YouTube
 - :zap: I love to attend Meetups for learning & Conferences for Networking<br>
 
@@ -29,8 +33,10 @@ Currently learning Mechanical and Electrical Engineering. <br>
 ![Image](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Image](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Image](https://img.shields.io/badge/Inertia.js-6549D1?style=for-the-badge&logo=inertia&logoColor=white)
 ![Image](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![Image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Image](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Image](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
 ![Image](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
@@ -39,6 +45,14 @@ Currently learning Mechanical and Electrical Engineering. <br>
 <img src="https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=Microsoft-Excel&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=Power-BI&logoColor=black"/>
 <img src="https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/>
+
+<br>
+
+### 🌟 Contribution Heatmap
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abbibr&theme=dracula" alt="GitHub Streak Stats" />
+</p>
 
 <br>
 
