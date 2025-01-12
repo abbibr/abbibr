@@ -50,9 +50,7 @@ Currently learning Mechanical and Electrical Engineering. <br>
 
 ### 🌟 Contribution Heatmap
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abbibr&theme=dracula" alt="GitHub Streak Stats" />
-</p>
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=abbibr&theme=dracula)
 
 <br>
 
