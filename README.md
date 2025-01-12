@@ -1,10 +1,6 @@
 <!--  <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" style="with: 30px;"> -->
 ## Hi there!
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=25&color=%2345C9FF&center=true&vCenter=true&lines=Code+is+Poetry+🎨;Always+Learning+💡;IoT+%2B + Backend + Data Analytics%3D+🚀">
-</p> <br>
-
 I am  Ibrohim Abbosov. Graduated Muhammad al-Khwarizmi specialized IT school. Currently studying at Amity University. <br>
 Backend Developer & IoT Engineer & Data Analyst. <br>
 Coordinated 5+big projects (systems) in Light Solution company and worked there. <br>
@@ -45,12 +41,6 @@ Currently learning Mechanical and Electrical Engineering. <br>
 <img src="https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=Microsoft-Excel&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=Power-BI&logoColor=black"/>
 <img src="https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/>
-
-<br>
-
-### 🌟 Contribution Heatmap
-
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=abbibr&theme=dracula)
 
 <br>
 
