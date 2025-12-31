@@ -2,7 +2,7 @@
 ## Hi there!
 
 I am  Ibrohim Abbosov. Graduated Muhammad al-Khwarizmi specialized IT school. Currently studying at Amity University. <br>
-Backend Developer & IoT Engineer & Data Analyst. <br>
+Backend Developer & IoT Engineer & Data Analyst & Product Manager. <br>
 Coordinated 5+big projects (systems) in Light Solution company and worked there. <br>
 Participant and Winner in several big hackathons and startups. <br>
 Currently learning Mechanical and Electrical Engineering. <br>
